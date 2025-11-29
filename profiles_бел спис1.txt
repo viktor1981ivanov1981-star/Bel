@@ -16,4 +16,4 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.184.66:80?ed=2048&eh=Sec-Web
 vless://252d7c6c-3f50-44fb-9a51-13963fc727e0@104.18.15.19:8080?encryption=none&host=0105.f5s8fbc2.workers.dev&path=%2F&security=none&type=ws#Workers-WS
 vless://47e9a0db-50c6-4522-8819-502c55b06dde@159.112.235.174:2082?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=workerr.schodog1.workers.dev&path=%2F&security=none&type=ws#WS-Backup
 vmess://e7d72a8d-26f2-4b54-b366-0c43e0bcba7d@165.140.216.141:443?encryption=auto&security=none&type=tcp#VMess-TCP
-vless://1853d1d2-1ccf-48e6-ae05-0c0bb285a8c4@104.16.19.242:80?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=winter-bush-f08c-ppal03.himigaw787.workers.dev&path=%2F&security=none&type=ws#WS-Backup2 
+vless://1853d1d2-1ccf-48e6-ae05-0c0bb285a8c4@104.16.19.242:80?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=winter-bush-f08c-ppal03.himigaw787.workers.dev&path=%2F&security=none&type=ws#WS-Backup2
