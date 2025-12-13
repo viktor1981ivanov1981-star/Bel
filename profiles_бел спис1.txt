@@ -1,4 +1,3 @@
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@64.188.97.71:34045?encryption=none&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&security=reality&sid=e8ab71d0&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&type=tcp#hamedp71::%F0%9F%87%B3%F0%9F%87%B3
 vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@152.53.227.159:80?encryption=none&host=cdn.ir&path=%2Fnews&security=none&type=ws#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%5Bblack%20lists%5D%20(1)
 vless://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?allowInsecure=1&encryption=none&host=kalam.mrconfigur.site&path=%2F&security=tls&sni=kalam.mrconfigur.site&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5Bblack%20lists%5D%F0%9F%93%A1
 vless://2ee2a715-d541-416a-8713-d66567448c2e@91.99.27.92:443?encryption=none&security=none&type=grpc#4Kian-6233
