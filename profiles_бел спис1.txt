@@ -12,4 +12,4 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?encryption=none&
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.33:8880?encryption=none&security=none&type=grpc#%F0%9F%90%B213@ConfigV2RayNG
 vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.51.24:22955?encryption=none&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&security=reality&serviceName=grpc&sid=6ba85179e30d4fc2&sni=one-piece.com&type=grpc#%3E%3E@oneclickvpnkeys::AT%20(4)
 vless://ae0a43bc-6189-456e-9b8a-a93f39af336e@38.180.144.156:443?encryption=none&fp=chrome&pbk=76Cfr5qNl9BCrSb6jdkrgj0HbwfyCwj4oF6JJVhKD0s&security=reality&serviceName=4ad80c2f8c79fca2b989b494&sid=42d7234d875308a2&sni=www.microsoft.com&type=grpc#%F0%9F%8C%90%20%5BAS9009%5D%20M247%20Europe%20SRL%20%233%20(www.microsoft.com)
-hysteria2://%40KevinZakarian@keviny.vpny.online:33001/?insecure=1&obfs=salamander&obfs-password=KevinZakarian#HY2-Unknown
+vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?alpn=h2&encryption=none&host=statue.lnmarketplace.net&mode=stream-one&path=%2Fstatue&security=tls&sni=statue.lnmarketplace.net&type=xhttp#%E2%9C%85%F0%9F%8D%B7@vless_vmess%20x%20%25
