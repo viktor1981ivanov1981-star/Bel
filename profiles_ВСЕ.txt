@@ -1,3 +1,4 @@
+sn://subscription?eNpjYGBgmGBqpHCx6cK-C7sv9lzYdWGfwoWtFzZdbAAyGBkQ4BljRklJQbGVvn5RYrleemZJRmlSaXFqUXJ-XklqXolecn6ufnZ-UYmBhYWhfllBnm5yRmpydmqRblIikMpL0c9NzMzThwim6PtWxruWFuXr51bGpwLp-ILEohIjvZKKEqBNjQDQVjdt
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600/?insecure=1&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#@Hddify
 hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000/?insecure=1&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&sni=gavazn.55994421.xyz#%F0%9F%93%9F22@ConfigV2RayNG
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000/?insecure=1&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&sni=gavazn.55994421.xyz#%F0%9F%87%B3%F0%9F%87%B1@FreakConfig
