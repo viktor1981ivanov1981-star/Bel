@@ -1,5 +1,0 @@
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400/?insecure=1&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#NL-YT-HY2
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600/?insecure=1&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#@Hddify
-hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000/?insecure=1&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&sni=gavazn.55994421.xyz#%F0%9F%93%9F22@ConfigV2RayNG
-hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000/?insecure=1&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&sni=gavazn.55994421.xyz#%F0%9F%87%B3%F0%9F%87%B1@FreakConfig
-hysteria2://Yet-Another-Public-Config-1@YAPC-1.adamhayward.co.uk:35200/?insecure=1&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#channel%20:%20@freedomofinfor%20%D9%87%D9%85%D8%B1%D8%A7%D9%87
